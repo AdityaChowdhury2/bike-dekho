@@ -33,7 +33,6 @@ module.exports = {
             "winter"],
     },
     theme: {
-
         extend: {
         }
     },
